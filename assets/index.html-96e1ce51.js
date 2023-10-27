@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-e3719748","path":"/paper/","title":"关于论文","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657973438000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":1}]},"filePathRelative":"paper/README.md"}');export{a as data};

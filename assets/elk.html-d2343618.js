@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c7ff7870","path":"/search/es/elk.html","title":"elk","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1677745125000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":2}]},"filePathRelative":"search/es/elk.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e,b as a}from"./app-47e324c0.js";const c={},r=e("h1",{id:"关于监控",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于监控","aria-hidden":"true"},"#"),a(" 关于监控")],-1),n=e("p",null,"在系统可观测的基础上，如何去对指标进行分析与监控",-1),_=[r,n];function d(h,i){return o(),s("div",null,_)}const u=t(c,[["render",d],["__file","prometheus.html.vue"]]);export{u as default};

@@ -1,0 +1,17 @@
+import{_ as n,o as s,c as a,e as t}from"./app-47e324c0.js";const e={},p=t(`<h1 id="关于查找" tabindex="-1"><a class="header-anchor" href="#关于查找" aria-hidden="true">#</a> 关于查找</h1><p>算法中其实很多都是关于查找的问题，从最简单的二分查找，到top K，以及从海量数据中找到自己想要的数据 其实搜索又何尝不是一种查找，只是这种查找会有更多复杂因素的考量</p><h2 id="二分查找" tabindex="-1"><a class="header-anchor" href="#二分查找" aria-hidden="true">#</a> 二分查找</h2><p>二分查找是入门，基础中的基础</p><div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code><span class="token comment">// 找不到返回-1</span>
+<span class="token keyword">func</span> <span class="token function">binarySearch</span><span class="token punctuation">(</span>arr <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token builtin">int</span><span class="token punctuation">,</span> target<span class="token punctuation">)</span><span class="token punctuation">{</span>
+	left <span class="token operator">=</span> <span class="token number">0</span> 
+	right <span class="token operator">=</span> <span class="token function">len</span><span class="token punctuation">(</span>arr<span class="token punctuation">)</span><span class="token operator">-</span><span class="token number">1</span>
+	<span class="token keyword">for</span> left <span class="token operator">&lt;</span> right <span class="token punctuation">{</span>
+		mid <span class="token operator">:=</span> <span class="token punctuation">(</span>left <span class="token operator">+</span> right<span class="token punctuation">)</span><span class="token operator">/</span><span class="token number">2</span>
+		<span class="token keyword">if</span> arr<span class="token punctuation">[</span>mid<span class="token punctuation">]</span> <span class="token operator">==</span> target <span class="token punctuation">{</span>
+			<span class="token keyword">return</span> mid
+		<span class="token punctuation">}</span><span class="token keyword">else</span> <span class="token keyword">if</span> arr<span class="token punctuation">[</span>mid<span class="token punctuation">]</span> <span class="token operator">&lt;</span> target <span class="token punctuation">{</span>
+			left <span class="token operator">=</span> mid <span class="token operator">+</span> <span class="token number">1</span>
+		<span class="token punctuation">}</span><span class="token keyword">else</span> <span class="token punctuation">{</span>
+			right <span class="token operator">=</span> mid <span class="token operator">-</span><span class="token number">1</span>
+		<span class="token punctuation">}</span>
+	<span class="token punctuation">}</span>
+	<span class="token keyword">return</span> <span class="token operator">-</span><span class="token number">1</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),o=[p];function c(l,i){return s(),a("div",null,o)}const u=n(e,[["render",c],["__file","search.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a931c2ba","path":"/book/the_essence_of_computing.html","title":"计算之魂","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1661835952000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":1}]},"filePathRelative":"book/the_essence_of_computing.md"}');export{e as data};

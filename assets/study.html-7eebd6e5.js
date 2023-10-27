@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-33db9208","path":"/other/study.html","title":"关于学习方法","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657973438000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":2}]},"filePathRelative":"other/study.md"}');export{t as data};

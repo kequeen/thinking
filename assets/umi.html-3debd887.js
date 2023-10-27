@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-47e324c0.js";const s={},i=e("h1",{id:"umi",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#umi","aria-hidden":"true"},"#"),o(" umi")],-1),n=e("p",null,"其实现在还是不能完全理解umi的作用，可能跟本身不是这个方向的也有关系",-1),r=[i,n];function _(d,u){return a(),c("div",null,r)}const m=t(s,[["render",_],["__file","umi.html.vue"]]);export{m as default};

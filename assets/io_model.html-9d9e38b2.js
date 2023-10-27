@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7effc3b1","path":"/other/io_model.html","title":"关于IO模型","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"参考文档","slug":"参考文档","link":"#参考文档","children":[]}],"git":{"updatedTime":1677745125000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"other/io_model.md"}');export{e as data};

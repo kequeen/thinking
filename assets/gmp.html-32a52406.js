@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as c}from"./app-47e324c0.js";const s={},n=e("h1",{id:"gmp",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gmp","aria-hidden":"true"},"#"),c(" GMP")],-1),r=e("p",null,"golang的调度模型，绝对是值得大书特书的一笔",-1),_=[n,r];function d(l,i){return a(),o("div",null,_)}const m=t(s,[["render",d],["__file","gmp.html.vue"]]);export{m as default};

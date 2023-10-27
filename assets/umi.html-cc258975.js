@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7fa8926b","path":"/front_end/umi.html","title":"umi","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1670901180000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"front_end/umi.md"}');export{e as data};

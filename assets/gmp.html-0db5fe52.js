@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ddc1df50","path":"/language/go/gmp.html","title":"GMP","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686022677000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"language/go/gmp.md"}');export{e as data};
