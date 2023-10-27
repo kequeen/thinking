@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-41507b24","path":"/search/","title":"为什么会写搜索引擎相关","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657005895000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":1}]},"filePathRelative":"search/README.md"}');export{a as data};

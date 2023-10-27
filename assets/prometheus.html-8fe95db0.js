@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51187e0c","path":"/cloud_native/prometheus.html","title":"关于监控","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1665827256000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"cloud_native/prometheus.md"}');export{e as data};

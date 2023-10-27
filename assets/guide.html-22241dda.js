@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30a18549","path":"/guide/guide.html","title":"为什么写博客","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"一些契机","slug":"一些契机","link":"#一些契机","children":[]}],"git":{"updatedTime":1656467289000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":2}]},"filePathRelative":"guide/guide.md"}');export{e as data};

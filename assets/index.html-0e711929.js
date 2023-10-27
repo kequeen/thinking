@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39dcc6d6","path":"/cloud_native/","title":"关于云原生","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"参考文档","slug":"参考文档","link":"#参考文档","children":[]}],"git":{"updatedTime":1662699935000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"cloud_native/README.md"}');export{e as data};

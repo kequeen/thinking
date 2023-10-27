@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-55ad14b4","path":"/thinking/","title":"人生思考","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1684752958000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":2}]},"filePathRelative":"thinking/README.md"}');export{e as data};

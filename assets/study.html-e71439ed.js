@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-107d6a9c","path":"/guide/study.html","title":"为什么需要终身学习","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657973438000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":4}]},"filePathRelative":"guide/study.md"}');export{t as data};

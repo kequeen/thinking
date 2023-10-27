@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f3ab3240","path":"/paper/raft.html","title":"raft","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"参考文档","slug":"参考文档","link":"#参考文档","children":[]}],"git":{"updatedTime":1669024216000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"paper/raft.md"}');export{e as data};
