@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"关于为什么要写博客","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1663775267000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":3},{"name":"liangnian","email":"liangnian@baidu.com","commits":1}]},"filePathRelative":"README.md"}');export{a as data};

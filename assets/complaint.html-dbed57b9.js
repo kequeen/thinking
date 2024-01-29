@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-d5a7a452","path":"/language/go/complaint.html","title":"对go的一些意见","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1661835952000,"contributors":[{"name":"liangnian","email":"liangnian@baidu.com","commits":3}]},"filePathRelative":"language/go/complaint.md"}');export{a as data};

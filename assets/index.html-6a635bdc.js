@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-22b9f66a","path":"/language/go/source/","title":"源码阅读","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706418011000,"contributors":[{"name":"kequeen","email":"liangnian1155@gmail.com","commits":1}]},"filePathRelative":"language/go/source/README.md"}');export{e as data};
